@@ -242,7 +242,7 @@ void producer(int id) {
 
 #### 实验结果
 
-![屏幕截图(133)](.\img\1.png)
+![屏幕截图(133)](img/1.png)
 
 #### 完整代码
 
@@ -618,7 +618,7 @@ int shmdt(const void* shmaddr);
 
 #### 实验结果
 
-![屏幕截图(130)](.\img\2.png)
+![屏幕截图(130)](img/2.png)
 
 #### 完整代码
 
